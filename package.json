@@ -1,0 +1,17 @@
+{
+  "name": "naughty-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jo Pearce <jo@jopearce.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.10.1",
+    "restify": "^6.0.1"
+  }
+}
